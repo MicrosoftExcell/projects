@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CandidateInterface
+comment0.text=\r\n\r\n\ Interface\ for\ candidate\ in\ an\ election.\ Each\ candidate\ can\ belong\ to\ a\ party,\ or\ not\ (in\ which\ case\ they\ are\ referred\ to\ as\ an\ independent\ candidate).\r\n\r\n\ You\ should\ provide\ a\ constructor\ with\ a\ String\ name\ parameter\r\n\r\n\ @author\ Steven\ Bradley\r\n\ @version\ December\ 2017\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=boolean\ isIndependent()
+comment2.text=\r\n\ @return\ true\ if\ and\ only\ if\ the\ candidate\ is\ not\ associated\ with\ a\ party\r\n
+numComments=3

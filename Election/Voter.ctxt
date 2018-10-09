@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Voter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Voter\ here.\r\n\ \r\n\ @author\ Elizabeth\ Excell\ \r\n\ @version\ December\ 2017\r\n
+comment1.params=name
+comment1.target=Voter(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPostcode()
+comment3.params=postcode
+comment3.target=void\ setPostcode(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+numComments=6

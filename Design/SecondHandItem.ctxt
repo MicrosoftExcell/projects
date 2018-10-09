@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SecondHandItem
+comment1.params=ID\ itemName\ percent\ pricePerUnit\ secondHand\ grade
+comment1.target=SecondHandItem(java.lang.String,\ java.lang.String,\ double,\ double,\ boolean,\ double)
+comment2.params=
+comment2.target=double\ getGrade()
+comment3.params=
+comment3.target=void\ select()
+comment4.params=
+comment4.target=double\ priceBeforeVAT()
+comment5.params=
+comment5.target=double\ priceAfterVAT()
+comment6.params=
+comment6.target=void\ print()
+numComments=7

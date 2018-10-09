@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PollingStation
+comment1.params=name
+comment1.target=PollingStation(java.lang.String)
+comment10.params=name
+comment10.target=void\ setName(java.lang.String)
+comment11.params=candidate
+comment11.target=int\ voteCount(CandidateInterface)
+comment2.params=
+comment2.target=java.util.Set\ getVotes()
+comment3.params=voter
+comment3.target=boolean\ canVote(VoterInterface)
+comment4.params=vote\ voter
+comment4.target=void\ vote(VoteInterface,\ VoterInterface)
+comment5.params=
+comment5.target=java.util.Set\ getVoters()
+comment6.params=voter
+comment6.target=void\ addVoter(VoterInterface)
+comment7.params=
+comment7.target=java.lang.String\ getAddress()
+comment8.params=address
+comment8.target=void\ setAddress(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=12

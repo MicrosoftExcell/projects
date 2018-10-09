@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WordFrequency
+comment1.params=text
+comment1.target=WordFrequency(java.lang.String)
+comment2.params=
+comment2.target=java.util.Set\ getWords()
+comment3.params=
+comment3.target=java.util.ArrayList\ getList()
+comment4.params=more
+comment4.target=void\ addText(java.lang.String)
+comment5.params=givenWord
+comment5.target=int\ findFrequency(java.lang.String)
+comment6.params=givenWord
+comment6.target=double\ relativeFreq(java.lang.String)
+comment7.params=file
+comment7.target=WordFrequency\ makeInstance(java.lang.String)
+comment8.params=
+comment8.target=java.util.HashMap\ overallFreq()
+comment9.params=type\ page
+comment9.target=void\ classifyAs(java.lang.String,\ java.lang.String)
+numComments=10

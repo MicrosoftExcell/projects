@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VoteInterface
+comment0.text=\r\n\r\n\ Interface\ for\ a\ vote\ in\ an\ election.\ When\ the\ vote\ is\ cast\ zero\ or\ more\ candidates\ are\ selected.\ A\ vote\ is\ only\ counted\ if\ exaclty\ one\ candidate\ is\ selected,\ otherwise\ the\ vote\ is\ 'spoiled'.\r\n\r\n\ You\ should\ provide\ a\ constructor\ with\ no\ parameters.\r\n\r\n\ @author\ Steven\ Bradley\r\n\ @version\ December\ 2017\r\n
+comment1.params=
+comment1.target=boolean\ isSpoiled()
+comment1.text=\r\n\ @return\ false\ if\ and\ only\ if\ there\ is\ exactly\ one\ candidate\ selected\r\n
+numComments=2

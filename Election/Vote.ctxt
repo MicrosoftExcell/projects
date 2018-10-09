@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vote
+comment1.params=
+comment1.target=Vote()
+comment2.params=candidate
+comment2.target=void\ addCandidate(CandidateInterface)
+comment3.params=
+comment3.target=boolean\ isSpoiled()
+comment4.params=
+comment4.target=CandidateInterface\ getCandidate()
+numComments=5

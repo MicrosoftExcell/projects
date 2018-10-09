@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BioGram
+comment0.text=\r\n\ Iteratively\ apply\ a\ transformation\ and\ give\ a\ diagram\ coloured\ according\ to\ \r\n\ the\ number\ of\ iterations\r\n\ \r\n\ @author\ Steven\ Bradley\ \r\n
+comment1.params=width\ height
+comment1.target=BioGram(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
